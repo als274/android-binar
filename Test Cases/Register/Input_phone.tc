@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f606fbb-2d74-432b-a718-fc6ea70c488d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b647729b-acce-40dd-86d9-f26a8fb4baf8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b647729b-acce-40dd-86d9-f26a8fb4baf8</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R02-User Submit with Existing Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6b718d5-1f52-41d3-990b-4a19b2fc636f</testCaseGuid>
+</TestCaseEntity>

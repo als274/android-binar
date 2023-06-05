@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_alamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbb0a380-18b6-416e-b426-d96c17503fae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8d37a33-aa00-42aa-a983-61c1e5cf72ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8d37a33-aa00-42aa-a983-61c1e5cf72ae</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
