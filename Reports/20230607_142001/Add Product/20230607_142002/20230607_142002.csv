@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Add Product,,,,2023-06-07 14:20:14,2023-06-07 14:21:03,48.584s,PASSED
+,,,,,,,
+Test Cases/Step Definition/Feature Add Product/AP01 - User want to add product,,,,2023-06-07 14:20:15,2023-06-07 14:21:03,48.264s,PASSED
+"startApplication(""C:\Users\Muqi\Katalon Studio\mobile-testing\Apk\app-release.apk"", false)",,,,2023-06-07 14:20:15,2023-06-07 14:20:29,13.859s,PASSED
+"callTestCase(findTestCase(""Pages/Add Product/Click add product button""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:29,2023-06-07 14:20:33,3.911s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Input Nama Produk""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:33,2023-06-07 14:20:37,4.371s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Input Harga Produk""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:37,2023-06-07 14:20:39,1.881s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Select Kategori""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:39,2023-06-07 14:20:51,11.821s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Input Lokasi Produk""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:51,2023-06-07 14:20:53,2.135s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Input Deskripsi Produk""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:53,2023-06-07 14:20:55,1.726s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Choose Image""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:20:55,2023-06-07 14:21:01,6.621s,PASSED
+"callTestCase(findTestCase(""Pages/Tambah Product/Click Terbitkan""), [:], STOP_ON_FAILURE)",,,,2023-06-07 14:21:01,2023-06-07 14:21:03,1.522s,PASSED
